@@ -80,7 +80,7 @@ export const styles = StyleSheet.create({
     },
     signUpContainer: {
         flexDirection: 'row',
-        marginTop: '11%'
+        marginTop: '9.5%'
     },
     signUpText: {
         color: '#C4C4C4',
